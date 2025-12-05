@@ -118,7 +118,7 @@ body {
 }
 /* Agujero del centro para hacerlo "Donut Chart" */
 .pie-chart::after {
-    content: "FINY";
+    content: "PRESUPUESTO";
     position: absolute;
     top: 50%; left: 50%;
     transform: translate(-50%, -50%);
